@@ -1,6 +1,6 @@
 # Privacy Policy for FormSaver Pro
 
-_Last updated: [Your Date]_
+_Last updated: 17/02/2025
 
 ## 1. Introduction
 Thank you for using **FormSaver Pro**. Your privacy is important to us. This Privacy Policy explains how we handle your data and the permissions required for the extension to function.
@@ -40,8 +40,8 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 ## 9. Contact Information
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-- **Email**: [Your Email]
-- **Website**: [Your Website (if applicable)]
+- **Email**: zakariaoumghar1@gmail.com  
+- **Website**: [https://www.zackweb-portfolio.netlify.app](https://zackweb-portfolio.netlify.app/#home)
 
 ---
 
